@@ -11,7 +11,7 @@ My expertise spans a variety of programming languages & I'm committed to deliver
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,go,swift,,py,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,go,swift,,py,postgres,mysql" />
 </div>
 
 <div align="center">
