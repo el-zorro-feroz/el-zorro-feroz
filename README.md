@@ -7,27 +7,15 @@ My expertise spans a variety of programming languages & I'm committed to deliver
 ## 🔧 Skills & Expertise
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,,,lua,raspberrypi" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,dart,flutter,swift" />
+  <img src="https://skillicons.dev/icons?i=cpp,go,swift,,py,postgres,mysql" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,lua,raspberrypi" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,vim" />
+  <img src="https://skillicons.dev/icons?i=js,firebase,,,vscode,vim" />
 </div>
 
 
